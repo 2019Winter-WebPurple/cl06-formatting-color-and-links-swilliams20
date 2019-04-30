@@ -1,0 +1,44 @@
+/*
+/* Sarah Williams
+* April 12, 2019 
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+    width: 90%/* size of webpage */
+}
+#lab {height: 600px;
+    width: 775px; /* size of picture */
+}
+header{ 
+    background-color: azure;/* color of header */
+}
+main{
+    background-color: azure;/* color of main section */
+}
+footer{
+    background-color: cadetblue;/* color of the footer*/
+}
+p{font-family: Times, "Times New Roman", serif;
+}
+p{font-size: 14pt;
+}
+h1{text-align: center;}
+img{float: right;}
+
+a:visited{
+    background-color:azure;
+    color:white;}
+}
+a:hover, a:focus{
+    background-color:black;/* hover focus is not working */
+    color:blue;
+}
